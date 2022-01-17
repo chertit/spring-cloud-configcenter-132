@@ -15,7 +15,7 @@ eureka:
     fetch-registry: true
     #注册服务的url
     service-url:
-      defaultZone: http://192.168.203.1:8888/eureka
+      defaultZone: http://192.168.222.1:8888/eureka
 
     #微服务的消费方与eureka服务器的约定
     #每30秒从eureka服务器获得最新的信息
